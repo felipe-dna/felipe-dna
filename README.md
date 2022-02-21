@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
    
-![Snake animation](https://github.com/felipe-dna/felipe-dna/blob/img/github-contribution.svg)
+![Snake animation](/img/github-contribution.svg)
 
 - 🔭 I’m currently working on Simbiose Ventures as Full Stack Engineer and Tech Lead
 - 🌱 I’m currently learning Vue, Express and Blockchain
