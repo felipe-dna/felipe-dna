@@ -43,7 +43,7 @@ Tech Lead and Full Stack Developer
 <a href="http://www.github.com/felipe-dna"><img src="https://github-readme-stats.vercel.app/api?username=felipe-dna&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=6366f1&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="felipe-dna's GitHub stats" /></a>
 
 <a href="http://www.github.com/felipe-dna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-dna&stroke=6366f1&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=6366f1&currStreakLabel=ec4899&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
-
+  
 <a href="http://www.github.com/felipe-dna"><img src="https://activity-graph.herokuapp.com/graph?username=felipe-dna&bg_color=0f172a&color=6366f1&line=a855f7&point=6366f1&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/felipe-dna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-dna&langs_count=10&title_color=ec4899&text_color=6366f1&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
