@@ -1,53 +1,80 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-dna&color=yellow" alt="Profile views" /> </p>
-
-Hi 👋 My name is Felipe Amador
-==============================
-
-Tech Lead and Full Stack Developer
-----------------------------------
-
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [felipe.amador@2wolabs.com.br](mailto:felipe.amador@2wolabs.com.br)
-* 🧠  I'm learning TypeScript, JavaScript and Python
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<h1 align="left">
+  Hi 
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+  , I'm Felipe Amador
+</h1>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=felipe-dna&color=c215ab" alt="Profile views" /> 
 </p>
 
 
-### Socials
+- 🔥 Full Stack Engineer & Techh Lead
 
-<p align="left"> <a href="https://www.github.com/felipe-dna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/felipe-dna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/condebloody" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- 🔭 I’m currently working at Simbiose Ventures and [2WO Labs](https://github.com/2wo-Labs)
 
-### Badges
+- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, SQL, Vue, Python, Django, FastAPI...**
 
-<b>My GitHub Stats</b>
+- ⚡ Fun fact: **I LOVE PYTHON!**
 
-<a href="http://www.github.com/felipe-dna"><img src="https://github-readme-stats.vercel.app/api?username=felipe-dna&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=6366f1&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="felipe-dna's GitHub stats" /></a>
+- 🌍  I'm based in Brazil
 
-<a href="http://www.github.com/felipe-dna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-dna&stroke=6366f1&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=6366f1&currStreakLabel=ec4899&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
-  
-<a href="http://www.github.com/felipe-dna"><img src="https://activity-graph.herokuapp.com/graph?username=felipe-dna&bg_color=0f172a&color=6366f1&line=a855f7&point=6366f1&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- ✉️  You can contact me at [felipe.amador@2wolabs.com.br](mailto:felipe.amador@2wolabs.com.br)
 
-<a href="https://github.com/felipe-dna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-dna&langs_count=10&title_color=ec4899&text_color=6366f1&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- 🧠  I'm learning Machine Learning and Business
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt.js)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=yellow)&nbsp;
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm&logoColor=blue)&nbsp;
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+<!-- Trophy -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=felipe-dna&theme=dracula" alt="felipe-dna" />
+  </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/felipe-dna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="felipe-dna" height="30" width="40" /></a>
+<a href="https://dev.to/felipedna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felipedna" height="30" width="40" /></a>
+<a href="https://twitter.com/condebloody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="condebloody" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipe-dna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-dna" height="30" width="40" /></a>
+<a href="https://codesandbox.com/felipe-dna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="felipe-dna" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/felipedna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="felipedna" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/felipe-dna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="felipe-dna" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-dna&show_icons=true&locale=en&layout=compact" alt="felipe-dna" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-dna&show_icons=true&locale=en" alt="felipe-dna" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-dna&" alt="felipe-dna" /></p>
