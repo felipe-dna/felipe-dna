@@ -20,7 +20,7 @@
 
 - ✉️  You can contact me at [felipe.amador@2wolabs.com.br](mailto:felipe.amador@2wolabs.com.br)
 
-- 🧠  I'm learning Machine Learning and Business
+- 🧠  I'm learning Machine Learning
 
 <br><br>
 
