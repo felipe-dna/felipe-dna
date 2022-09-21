@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔥 Full Stack Engineer & Techh Lead
+- 🔥 Full Stack Engineer & Tech Lead
 
 - 🔭 I’m currently working at Simbiose Ventures and [2WO Labs](https://github.com/2wo-Labs)
 
