@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=felipe-dna&color=c215ab" alt="Profile views" /> 
 </p>
 
-
+<!-- 
 - 🔥 Full Stack Engineer & Tech Lead
 
 - 🔭 I’m currently working at Simbiose Ventures and [2WO Labs](https://github.com/2wo-Labs)
@@ -22,7 +22,7 @@
 
 - 🧠  I'm learning Machine Learning
 
-<br><br>
+<br><br> -->
 
 ## 🛠 &nbsp;Tech Stack
   
