@@ -75,8 +75,6 @@
 <br><br>
 ____
 
-<!--   <img align="right" src="https://github-profile-trophy.vercel.app/?username=felipe-dna&theme=dracula&layout=compact" alt="felipe-dna" /> -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-dna&theme=dracula&layout=compact" alt="felipe-dna" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-dna&show_icons=true&locale=en&layout=compact&theme=dracula" alt="felipe-dna" /><p>  
 
   
