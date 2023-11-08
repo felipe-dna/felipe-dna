@@ -1,10 +1,6 @@
 <diV align="center">
-  <h1>
-    Hi 
-    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-    , I'm Felipe Amador
-  </h1>
-  
+  ![image](https://github.com/felipe-dna/felipe-dna/assets/33638130/bf3eaecf-2a70-44dc-937e-13064c55e584)
+
   🔥 Full Stack Engineer & Tech Lead
   
   🔭 I’m currently working at Cresce.ai and [2WO Labs](https://github.com/2wo-Labs)
