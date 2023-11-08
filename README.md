@@ -1,20 +1,25 @@
 <diV align="center">
- ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/33638130/281524034-bf3eaecf-2a70-44dc-937e-13064c55e584.png)
   
-  🔥 Full Stack Engineer & Tech Lead
-  
-  🔭 I’m currently working at Cresce.ai and [2WO Labs](https://github.com/2wo-Labs)
-  
-  💬 Ask me about **JavaScript, TypeScript, HTML, CSS, SQL, Vue, Nuxt, Vite, Python, Django, FastAPI...**
-  
-  ⚡ Fun fact: **I LOVE PYTHON!**
-  
-  🌍  I'm based in Brazil
-  
-  ✉️  You can contact me at [felipedavidamador@gmail.com](mailto:felipedavidamador@gmail.com)
-  
-  🧠  I'm learning Nuxt and Vue
-  <br><br>
+  ![image](https://github.com/felipe-dna/felipe-dna/blob/master/img/281524034-bf3eaecf-2a70-44dc-937e-13064c55e584.png)
+
+  <div align="left">
+   
+   # About me
+   
+   - 🔥 Full Stack Engineer & Tech Lead
+   
+   - 🔭 I’m currently working at Cresce.ai and [2WO Labs](https://github.com/2wo-Labs)
+     
+   - 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, SQL, Vue, Nuxt, Vite, Python, Django, FastAPI...**
+     
+   - ⚡ Fun fact: **I LOVE PYTHON!**
+     
+   - 🌍  I'm based in Brazil
+     
+   - ✉️  You can contact me at [felipedavidamador@gmail.com](mailto:felipedavidamador@gmail.com)
+     
+   - 🧠  I'm learning Nuxt and Vue
+  </div>
   
   # Status
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe-dna&theme=dracula)
