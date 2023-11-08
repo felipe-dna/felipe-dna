@@ -3,9 +3,6 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
   , I'm Felipe Amador
 </h1>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=felipe-dna&color=c215ab" alt="Profile views" /> 
-</p>
 
 <!-- 
 - 🔥 Full Stack Engineer & Tech Lead
@@ -72,13 +69,7 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://codepen.io/felipe-dna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="felipe-dna" height="30" width="40" /></a>
-<a href="https://dev.to/felipedna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felipedna" height="30" width="40" /></a>
-<a href="https://twitter.com/condebloody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="condebloody" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/felipe-dna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-dna" height="30" width="40" /></a>
-<a href="https://codesandbox.com/felipe-dna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="felipe-dna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/felipedna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="felipedna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/felipe-dna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="felipe-dna" height="30" width="40" /></a>
 </p>
 
 <br><br>
