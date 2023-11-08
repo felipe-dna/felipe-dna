@@ -1,6 +1,6 @@
 <diV align="center">
-  ![image](https://github.com/felipe-dna/felipe-dna/assets/33638130/bf3eaecf-2a70-44dc-937e-13064c55e584)
-
+ ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/33638130/281524034-bf3eaecf-2a70-44dc-937e-13064c55e584.png)
+  
   🔥 Full Stack Engineer & Tech Lead
   
   🔭 I’m currently working at Cresce.ai and [2WO Labs](https://github.com/2wo-Labs)
