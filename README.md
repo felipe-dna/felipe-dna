@@ -18,7 +18,7 @@
      
    - ✉️  You can contact me at [felipedavidamador@gmail.com](mailto:felipedavidamador@gmail.com)
      
-   - 🧠  I'm learning Nuxt and Vue
+   - 🧠  I'm learning Java, Angular and Kotlin
   </div>
   
   # Status
