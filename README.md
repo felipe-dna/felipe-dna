@@ -6,7 +6,7 @@
    
    # About me
    
-   - 🔥 Full Stack Engineer & Tech Lead
+   - 🔥 Full Stack Engineer
    
    - 🔭 I’m currently working at Cresce.ai and [2WO Labs](https://github.com/2wo-Labs)
      
