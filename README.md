@@ -77,10 +77,4 @@
   </p>
   
   <br><br>
-  ____
-  
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-dna&show_icons=true&locale=en&layout=compact&theme=dracula" alt="felipe-dna" /><p>  
-
-  
-
 </diV>
