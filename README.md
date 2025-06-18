@@ -2,6 +2,7 @@
   
   ![image](https://github.com/felipe-dna/felipe-dna/blob/master/img/281524034-bf3eaecf-2a70-44dc-937e-13064c55e584.png)
 
+  <!---
   <div align="left">
    
    # About me
@@ -19,7 +20,7 @@
    - ✉️  You can contact me at [felipedavidamador@gmail.com](mailto:felipedavidamador@gmail.com)
      
    - 🧠  I'm learning Java, Angular and Kotlin
-  </div>
+  </div> -->
   
   # Status
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe-dna&theme=dracula)
